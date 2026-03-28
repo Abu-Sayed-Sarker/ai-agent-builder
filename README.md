@@ -1,6 +1,6 @@
 # AI Agent Profile Builder
 
-Welcome to the AI Agent Profile Builder! 
+Welcome to the AI Agent Profile Builder!
 
 In this project, you will be taking over a partially built "AI Agent Builder" interface. The current state is functional in principle, but it's suffering from severe performance issues, logical bugs, and a lack of styling.
 
@@ -15,17 +15,19 @@ Your goal is to transform this raw scaffold into a polished, performant, and vis
 4. **Submit a Pull Request:** Once you are satisfied with your work, open a Pull Request against this original repository.
    - If you have created a design for this challenge. Make sure to link it here. If not, leave it as is.
 
-   **DESIGN LINK** = <public_url_here>
+   **DESIGN LINK** = https://www.figma.com/design/lntDe2OH4VAPetf3u6ntZ6/AI-Agent-Profile?node-id=0-1&p=f&t=SLXxCrO5DE2iTvLV-0
    - **IMPORTANT:** In the PR, make sure to put your CV in the `public` folder (as a PDF). You can also present your CV in the frontend in a creative way; but the pdf in the `public` folder is a must.
 
 ## 🤖 AI Tool Usage
-We are a very AI-positive company! The use of AI coding assistants, LLMs, or other supporting tools is highly encouraged and **will not harm your chances**. 
+
+We are a very AI-positive company! The use of AI coding assistants, LLMs, or other supporting tools is highly encouraged and **will not harm your chances**.
 
 If you used any AI tools to assist you with this project (e.g., ChatGPT, Claude, GitHub Copilot, Cursor, etc.), please create a brief section in your PR description listing them and how you utilized them.
 
 ## 📝 Evaluation Criteria
 
 We will be evaluating your submission based on:
+
 1. **React Fundamentals:** Did you identify and correctly fix the intentional performance and scoping bugs? Is your component state managed logically?
 2. **Code Quality:** Is your code clean, readable, and well-structured? Did you extract components appropriately?
 3. **Design & UX:** Does the final application look professional and feel good to use? Is it responsive?
